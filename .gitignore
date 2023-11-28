@@ -9,6 +9,8 @@
 *.log.*
 *.sig
 
+.ipynb_checkpoints
+
 pkg/
 src/
 .DS_Store
